@@ -1,0 +1,9 @@
+hadoop
+spark
+hive
+flink
+sqoop
+presto
+mysql
+hdfs
+tez
